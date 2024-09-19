@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> <h1>My Resume</h1>
+    <h2>Kaye Brown</h2>
+    <ul>
+        <li>Email: Kayebrown2021@gmail.com</li>
+<li>Phone number: (865)316-8850 </li>
+<li>Oliver Springs, TN 37840</li>
+<img src="Photo for Resume.jpg"
+    </ul> <hr />
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head> 
+<body>
+<a href="https://kayebae01.github.io/html.portfolio/">GitHub</a>
+
+<h3>Education</h3>
+<li>2024 Web Development Bootcamp</li>
+<li>Branson School Certificate in Medical Billing and Coding</li>
+<li>High School </li>
+<h3>Work Experience</h3>
+<li>Stay at home mom-10/2023-Present</li>
+<li>Team Health-Denials Resolution-Alcoa TN, 04/22-10/2023
+<br />  Drove disput resolutions using effective problem-solving and by guiding mutual understanding of opposing viewpoints. Contact carriers to find what information is needed to go further to get claim paid. Weather that be an appeal, or Retro Authorization. Update Patient.Insurance information when needed. Input information in IDX and/or ETM.
+<li>Team Health-Audit Tracking system Coordinator-Alcoa, TN 11/2021-04/2022</li>
+Planned and executed audit phases and data input into IDX software for analysis. Analyzed data and findings and prepared reprts for lead auditor detailing production. Performed strategic planning, execution and finalization of audits. Gathered and analyzed financial data to determine improvement efforts.
+<li>Travelers-Insurance Service Representative</li>
+Based on customer situation, provide policy options such as additional deductible, basic coverages and discounts. Responds to customers/agents requests for quotes or changes to existing polices. Reviews cancellations and reinstatements and makes appropriate decisions to resolve with guidance. Resolves service-related complaints and complex calls with guidance from otehrs on more complex calls. Assist customers with simple intent calls. Acts as online billing systems and agency portal website expert to provide proactive agency and customer support. Identifies new business opportunites driven by customer/agent request.
+<li>GC Services-Quality Assurance Analyst-03/18-06/20</li>
+Listen to all incoming and outgoing calls, Chats, and LMI software. Grade and coach all agents bases on their performance weekly. Work alongside senior management to ensure proper quality assurance on agents performance.
+<li>ADT Security Services-Emergency Dispatcher-10/17-03/18</li>
+Call on all alarms, send out authorities when needed.
+<li>Farragut ENT & Allergy-Front Desk Receptionist-09/16-10/17</li>
+Check in all patients. Create new patient accounts. Make payments when needed, keep front office clean.
+<li>JTV-Customer service represenative-01/14-09/17</li>
+Take incoming calls, maker a jewelry sale. Track packages when needed, explaim the jewelry the customer is requesting.</li>
+
+</body>
+</html>
